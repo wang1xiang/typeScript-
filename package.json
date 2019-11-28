@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "eslint": "eslint src --ext .ts"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.30",
+    "eslint": "^6.0.1",
+    "eslint-config-alloy": "^2.0.5",
+    "eslint-plugin-typescript": "^0.14.0",
+    "typescript": "^3.5.3",
+    "typescript-eslint-parser": "^22.0.0"
+  }
+}
